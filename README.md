@@ -1,0 +1,2 @@
+# cpu1
+windows
